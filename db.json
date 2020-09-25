@@ -1,7 +1,5 @@
 {
-  "efetiva": {
-    "sucesso": "true"
-  },
+  "efetiva": true,
   "cancela": {
     "sucesso": "true"
   },
