@@ -1,11 +1,7 @@
 {
   "efetiva": true,
-  "cancela": {
-    "sucesso": "true"
-  },
-  "altera": {
-    "sucesso": "true"
-  },
+  "cancela": true,
+  "altera": true,
   "consulta": [
     { 
       "idInternoAutorizacao": "88880",
