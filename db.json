@@ -12,7 +12,7 @@
       "OrdemPrioridade": 1,
       "AutorizaUsoLimiteCredito": true,
       "AutorizaDebitoParcial": false,
-      "PrazoIndeterminado": false:
+      "PrazoIndeterminado": false,
       "Dt_Final": "2021-01-30",
       "Status": "P"
     },
@@ -27,7 +27,7 @@
       "OrdemPrioridade": 2,
       "AutorizaUsoLimiteCredito": false,
       "AutorizaDebitoParcial": false,
-      "PrazoIndeterminado": true:      
+      "PrazoIndeterminado": true,      
       "Status": "P"
     }
   ]
