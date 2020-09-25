@@ -1,6 +1,14 @@
 {
-  "posts": true,
-  "comments": [
+  "efetiva": {
+    "sucesso": "true"
+  },
+  "cancela": {
+    "sucesso": "true"
+  },
+  "altera": {
+    "sucesso": "true"
+  },
+  "consulta": [
     { 
       "idInternoAutorizacao": "88880",
       "IdOperacaoCliente": "123e4567", 
